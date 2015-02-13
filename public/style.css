@@ -4,7 +4,7 @@
 		}
 
 		body{
-			background-color: #FFF4E6;
+			background-color: #272727;
 			font-size: 18px;
 			color: #444;
 		}
@@ -28,6 +28,7 @@
 			font-family: sans-serif,arial,verdana;
 			font-weight: normal;
 			text-align: center;
+			color: #fff;
 		}
 		table{
 			margin: 0 auto;
